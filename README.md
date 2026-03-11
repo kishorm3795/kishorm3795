@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=py,js,c,fastapi,nodejs,react,mongodb,linux,windows,vscode,mysql,git,github,apple,&theme=dark&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,js,c,fastapi,nodejs,react,mongodb,windows,vscode,git,github,apple,&theme=dark&perline=10" alt="Tech Stack Icons" />
     <!--Add Java,Tensorflow,Pytorch later-->
   </a>
 </div>
