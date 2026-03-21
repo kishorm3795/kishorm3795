@@ -1,9 +1,9 @@
 <div align="center">
-<a href="https://kishorm3795.github.io/Portfolio-W3B5173/index.html" target="_blank">
+<a href="https://kishorm3795.github.io/" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
-<a href="https:"https://www.instagram.com/pavan_kishor.m/?hl=en" target="_blank">
+<a href="https://www.instagram.com/pavan_kishor.m/?hl=en" target="_blank">
   <img height="35" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" />
 </a>
 &nbsp;&nbsp;
