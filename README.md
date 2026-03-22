@@ -18,6 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
 <div align="center">
+  ### ⚒️ Tech Stack
   <a >
     <img src="https://skillicons.dev/icons?i=py,js,c,fastapi,nodejs,react,mongodb,windows,vscode,git,github,apple,&theme=dark&perline=10" alt="Tech Stack Icons" />
     <!--Add Java,Tensorflow,Pytorch later-->
