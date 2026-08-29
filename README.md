@@ -105,16 +105,25 @@
     <!-- ==================== MIDDLE COLUMN ==================== -->
     <td width="42%" valign="top">
 
-      <!-- Contributions & 3D Graph -->
+      <!-- Contributions & Isometric Commit Calendar -->
       <table width="100%">
         <tr>
           <td>
             <div align="between">
-              <b>Contributions</b> <sub style="float: right;">Aug 24, 2025 – Aug 29, 2026</sub>
+              <b>📅 Isometric Commit Calendar</b> <sub style="float: right;">Aug 24, 2025 – Aug 29, 2026</sub>
             </div>
             <br/>
-            <img src="https://github-readme-3d-contrib.vercel.app/api?username=kishorm3795&theme=dark" width="100%" alt="3D Contributions" />
-            <br/><br/>
+            <details open>
+              <summary><b>3D Isometric Commit Calendar & Radar Chart</b></summary>
+              <br/>
+              <img src="./assets/user_radar_isocalendar.svg" width="100%" alt="Isometric Commit Calendar & Radar Chart" />
+            </details>
+            <details>
+              <summary><b>Full Year Commit Calendar</b></summary>
+              <br/>
+              <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%" alt="Full Year Calendar" />
+            </details>
+            <br/>
             <p align="center">
               <b>616</b> contributions in the last year &nbsp;|&nbsp; ⭐️ <b>1956</b> &nbsp;|&nbsp; 🔀 <b>397</b>
             </p>
