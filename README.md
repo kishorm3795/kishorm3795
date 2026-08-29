@@ -48,7 +48,9 @@
 
 <!-- Isometric Commit Calendar & Radar Chart -->
 <h3>📅 Isometric Commit Calendar & Radar Chart</h3>
-<img src="./assets/user_radar_isocalendar.svg" width="100%" alt="Isometric Commit Calendar & Radar Chart" />
+<div align="center">
+<img src="./assets/user_radar_isocalendar.svg" width="85%" alt="Isometric Commit Calendar & Radar Chart" />
+</div>
 
 <br/><br/>
 
