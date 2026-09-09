@@ -1,124 +1,28 @@
 <div align="center">
 
-<!-- Header Top Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=10,15,30,50&height=140&section=header&text=Pavan%20Kishor%20M&fontSize=38&fontAlignY=38&subtext=Aspiring%20Software%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Building%20solutions%20that%20make%20an%20impact.&subfontSize=14&subfontAlignY=68" width="100%" alt="Header Banner" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/><img src="assets/header-v1.svg" alt="Pavan Kishor M"/></picture>
 
-<br/><br/>
+<a href="https://linkedin.com/in/pavankishorm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
+<a href="https://x.com/pavankishorm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/X-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/X-ffffff?style=flat-square" alt="X"/></picture></a>
+<a href="mailto:pavankishorm@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square" alt="Email"/></picture></a>
 
-<!-- Profile Overview & Links Table -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3 align="left">👤 Profile & Overview</h3>
-<p align="left">
-<b>Pavan Kishor M</b> &nbsp;|&nbsp; <code>@kishorm3795</code><br/>
-<i>Aspiring Software Engineer | ML Enthusiast</i><br/>
-<sub>Building solutions that make an impact.</sub>
-</p>
-<hr/>
-<p align="left">
-📍 <b>Location:</b> India<br/>
-🎓 <b>Education:</b> Computer Science Engineering<br/>
-📅 <b>Joined GitHub:</b> Aug 2023<br/>
-👥 <b>Followed by:</b> 128 users
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="left">🌐 Portfolio & Links</h3>
-<p align="left">
-🌐 <b>Portfolio:</b> <a href="https://kishorm3795.github.io/" target="_blank">kishorm3795.github.io</a><br/>
-📷 <b>Instagram:</b> <a href="https://www.instagram.com/pavan_kishor.m/?hl=en" target="_blank">@pavan_kishor_m</a><br/>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/pavan-kishor-m-8ba028373/" target="_blank">linkedin.com/in/pavan-kishor-m</a><br/>
-👁️ <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=kishorm3795&style=flat-square&color=2563eb&label=VIEWS" align="center" alt="Profile Views" />
-</p>
-<hr/>
-<table width="100%">
-<tr>
-<td align="center"><b>33</b><br/><sub>Repos</sub></td>
-<td align="center"><b>616</b><br/><sub>Contribs</sub></td>
-<td align="center"><b>1956</b><br/><sub>Stars</sub></td>
-<td align="center"><b>397</b><br/><sub>PRs</sub></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+</div>
 
-<br/><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 — whoami"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Pavan Kishor M"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 — telemetry"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/><img src="assets/telemetry.svg" alt="Animated development telemetry"/></picture>
 
-<!-- Isometric Commit Calendar & Radar Chart -->
-<h3>📅 Isometric Commit Calendar & Radar Chart</h3>
 <div align="center">
-<img src="./assets/user_radar_isocalendar.svg" width="85%" alt="Isometric Commit Calendar & Radar Chart" />
-</div>
 
-<br/><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/github-stats.svg"/><img src="assets/github-stats.svg" width="97%" alt="GitHub statistics and repository languages"/></picture>
 
-<!-- Tech Stack Matrix -->
-<h3>🛠️ Tech Stack</h3>
-<table width="100%">
-<tr>
-<td width="20%" align="left"><b>Languages</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,rust&theme=dark" alt="Languages" /></td>
-</tr>
-<tr>
-<td align="left"><b>Frontend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs&theme=dark" alt="Frontend" /></td>
-</tr>
-<tr>
-<td align="left"><b>Backend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Backend" /></td>
-</tr>
-<tr>
-<td align="left"><b>Tools</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" alt="Tools" /></td>
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- Most Used Languages & Sports Fitness -->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3 align="left">📊 Most Used Languages</h3>
-<table width="100%">
-<tr>
-<td align="left">🔹 <b>TypeScript</b></td>
-<td align="right">73.3k lines (2.69 MB) — <b>47.32%</b></td>
-</tr>
-<tr>
-<td align="left">🟡 <b>JavaScript</b></td>
-<td align="right">58.5k lines (2.99 MB) — <b>52.68%</b></td>
-</tr>
-</table>
-<br/>
-<table width="100%">
-<tr>
-<td align="center"><b>34</b><br/><sub>Repositories</sub></td>
-<td align="center"><b>3672</b><br/><sub>Commits</sub></td>
-<td align="center"><b>14349</b><br/><sub>Files Changed</sub></td>
-<td align="center"><b>23</b><br/><sub>PRs Merged</sub></td>
-</tr>
-</table>
-</td>
-<td width="50%" valign="top">
-<h3 align="left">⚽ Sports & Fitness</h3>
-<p align="center">
-🏏 <b>Cricket</b> <i>(Passion)</i> &nbsp;|&nbsp; 🏸 <b>Badminton</b> <i>(Weekly)</i><br/>
-🏋️ <b>Gym</b> <i>(Strength)</i> &nbsp;|&nbsp; 🏃 <b>Running</b> <i>(5K+)</i>
-</p>
-<br/>
-<blockquote style="margin: 0; padding: 8px;">
-<i>"Discipline in code. Dedication in sport. Consistency in life."</i> 🏃‍♂️
-</blockquote>
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=10,15,30,50&height=100&section=footer" width="100%" alt="Footer Banner" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=pavankishorm&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankishorm&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/></picture>
 
 </div>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 — stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
+
+<!-- one responsive picture per visual; no duplicate light/dark rendering -->
