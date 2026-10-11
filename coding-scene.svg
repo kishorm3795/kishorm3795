@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="180" viewBox="0 0 460 180" role="img" aria-label="A laptop typing code with floating tech chips">
+  <defs>
+    <clipPath id="screen"><rect x="31" y="19" width="268" height="128" rx="7"/></clipPath>
+    <clipPath id="frame"><rect x="0.5" y="0.5" width="459" height="179" rx="12"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b2b"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#a371f7"/></linearGradient>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.8" fill="#30363d"/></pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="blur2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <style>
+    .code { font: 400 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .ln { font: 400 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#484f58; }
+    .chip { font: 700 15px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .status { font: 600 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill:#3fb950; }
+    .fname { font: 500 9.5px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill:#8b949e; }
+    .blob1 { animation: d1 9s ease-in-out infinite alternate; }
+    .blob2 { animation: d2 11s ease-in-out infinite alternate; }
+    @keyframes d1 { from { transform: translate(0,0) } to { transform: translate(70px,26px) } }
+    @keyframes d2 { from { transform: translate(0,0) } to { transform: translate(-60px,-24px) } }
+    .glow { animation: glow 3s ease-in-out infinite alternate; }
+    @keyframes glow { from { opacity:.22 } to { opacity:.5 } }
+    .float { animation: fl 3.6s ease-in-out infinite alternate; }
+    @keyframes fl { from { transform: translateY(5px) } to { transform: translateY(-6px) } }
+    .flow { animation: fw 1.2s linear infinite; }
+    @keyframes fw { to { stroke-dashoffset: -18 } }
+    .tw { animation: tw 2.8s ease-in-out infinite alternate; }
+    @keyframes tw { from { opacity:.15 } to { opacity:1 } }
+    .pulse { animation: pu 1.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pu { 0%,100% { transform:scale(1); opacity:1 } 50% { transform:scale(1.8); opacity:.35 } }
+    .shine { animation: sh 5s linear infinite; }
+    @keyframes sh { from { transform: translateX(-120px) } to { transform: translateX(340px) } }
+        .t0 { width:0; animation: ty0 14.0s steps(31) infinite }
+    @keyframes ty0 { 0%,4.29% { width:0 } 16.46%,94.0% { width:204.6px } 94.01%,100% { width:0 } }
+    .t1 { width:0; animation: ty1 14.0s steps(33) infinite }
+    @keyframes ty1 { 0%,18.57% { width:0 } 31.54%,94.0% { width:217.8px } 94.01%,100% { width:0 } }
+    .t2 { width:0; animation: ty2 14.0s steps(20) infinite }
+    @keyframes ty2 { 0%,35.71% { width:0 } 43.57%,94.0% { width:132.0px } 94.01%,100% { width:0 } }
+    .t3 { width:0; animation: ty3 14.0s steps(3) infinite }
+    @keyframes ty3 { 0%,50.00% { width:0 } 51.18%,94.0% { width:19.8px } 94.01%,100% { width:0 } }
+    .ok { opacity:0; animation: ok 14.0s ease-out infinite }
+    @keyframes ok { 0%,60.00% { opacity:0; transform:translateY(5px) } 62.00%,94.0% { opacity:1; transform:translateY(0) } 94.01%,100% { opacity:0; transform:translateY(5px) } }
+    .cur { opacity:0; animation: cur 14.0s steps(1) infinite }
+    @keyframes cur { 0%,54.29% { opacity:0 } 54.30%,57.79% { opacity:1 } 57.80%,61.29% { opacity:0 } 61.30%,64.79% { opacity:1 } 64.80%,100% { opacity:0 } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="460" height="180" fill="url(#bg)"/>
+    <rect width="460" height="180" fill="url(#dots)" opacity=".55"/>
+    <circle class="blob1" cx="70" cy="40" r="55" fill="#388bfd" opacity=".30" filter="url(#blur)"/>
+    <circle class="blob2" cx="400" cy="150" r="62" fill="#a371f7" opacity=".32" filter="url(#blur)"/>
+    <circle class="tw" cx="26" cy="10" r="1.3" fill="#e6edf3" style="animation-delay:0s"/><circle class="tw" cx="150" cy="8" r="1.3" fill="#e6edf3" style="animation-delay:-1s"/><circle class="tw" cx="300" cy="10" r="1.3" fill="#e6edf3" style="animation-delay:-2s"/><circle class="tw" cx="440" cy="14" r="1.3" fill="#e6edf3" style="animation-delay:-1.5s"/><circle class="tw" cx="330" cy="162" r="1.3" fill="#e6edf3" style="animation-delay:-0.5s"/><circle class="tw" cx="440" cy="168" r="1.3" fill="#e6edf3" style="animation-delay:-2.5s"/><circle class="tw" cx="24" cy="168" r="1.3" fill="#e6edf3" style="animation-delay:-3s"/>
+
+    <line class="flow" x1="298" y1="92" x2="332" y2="44" stroke="#3178c6" stroke-width="1.4" stroke-dasharray="3 6" opacity=".7"/><line class="flow" x1="298" y1="92" x2="392" y2="70" stroke="#00add8" stroke-width="1.4" stroke-dasharray="3 6" opacity=".7"/><line class="flow" x1="298" y1="92" x2="336" y2="108" stroke="#ffd43b" stroke-width="1.4" stroke-dasharray="3 6" opacity=".7"/><line class="flow" x1="298" y1="92" x2="394" y2="134" stroke="#a371f7" stroke-width="1.4" stroke-dasharray="3 6" opacity=".7"/>
+
+    <!-- laptop -->
+    <rect class="glow" x="26" y="16" width="278" height="136" rx="12" fill="#58a6ff" filter="url(#blur2)"/>
+    <rect x="30" y="18" width="270" height="130" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+    <rect x="30.75" y="18.75" width="268.5" height="18" rx="7" fill="#161b22"/>
+    <rect x="30.75" y="30" width="268.5" height="7" fill="#161b22"/>
+    <circle cx="44" cy="28" r="3.2" fill="#ff5f56"/><circle cx="55" cy="28" r="3.2" fill="#ffbd2e"/><circle cx="66" cy="28" r="3.2" fill="#27c93f"/>
+    <text x="165" y="31" class="fname" text-anchor="middle">server.ts</text>
+    <rect x="30.75" y="37" width="268.5" height="1.5" fill="url(#bar)"/>
+    
+    <clipPath id="cl0"><rect class="t0" x="62" y="50" height="16"/></clipPath>
+    <text x="50" y="62" class="ln" text-anchor="end">1</text>
+    <text x="62" y="62" class="code" clip-path="url(#cl0)" xml:space="preserve"><tspan fill="#ff7b72">const </tspan><tspan fill="#79c0ff">server</tspan><tspan fill="#e6edf3"> = </tspan><tspan fill="#ff7b72">new </tspan><tspan fill="#d2a8ff">MCPServer</tspan><tspan fill="#e6edf3">();</tspan></text>
+    <clipPath id="cl1"><rect class="t1" x="62" y="68" height="16"/></clipPath>
+    <text x="50" y="80" class="ln" text-anchor="end">2</text>
+    <text x="62" y="80" class="code" clip-path="url(#cl1)" xml:space="preserve"><tspan fill="#79c0ff">server</tspan><tspan fill="#e6edf3">.</tspan><tspan fill="#d2a8ff">tool</tspan><tspan fill="#e6edf3">(</tspan><tspan fill="#a5d6ff">"ask"</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#ff7b72">async </tspan><tspan fill="#e6edf3">(q) =&gt; {</tspan></text>
+    <clipPath id="cl2"><rect class="t2" x="62" y="86" height="16"/></clipPath>
+    <text x="50" y="98" class="ln" text-anchor="end">3</text>
+    <text x="62" y="98" class="code" clip-path="url(#cl2)" xml:space="preserve"><tspan fill="#e6edf3">  </tspan><tspan fill="#ff7b72">return </tspan><tspan fill="#79c0ff">ai</tspan><tspan fill="#e6edf3">.</tspan><tspan fill="#d2a8ff">chat</tspan><tspan fill="#e6edf3">(q);</tspan></text>
+    <clipPath id="cl3"><rect class="t3" x="62" y="104" height="16"/></clipPath>
+    <text x="50" y="116" class="ln" text-anchor="end">4</text>
+    <text x="62" y="116" class="code" clip-path="url(#cl3)" xml:space="preserve"><tspan fill="#e6edf3">});</tspan></text>
+    <rect class="cur" x="83.8" y="105" width="6" height="13" fill="#e6edf3"/>
+    <g class="ok">
+      <circle class="pulse" cx="44" cy="134" r="3" fill="#3fb950"/>
+      <text x="54" y="137.5" class="status">listening on :3000</text>
+    </g>
+    <g clip-path="url(#screen)"><g transform="skewX(-18)"><rect class="shine" x="0" y="18" width="40" height="130" fill="#ffffff" opacity=".05"/></g></g>
+    <path d="M14,152 H316 L306,162 Q304,164 300,164 H30 Q26,164 24,162 Z" fill="#21262d" stroke="#30363d"/>
+    <rect x="140" y="152" width="50" height="4" rx="2" fill="#0d1117"/>
+
+    
+  <g class="float" style="animation-delay:0.0s">
+    <rect x="332" y="24" width="40" height="40" rx="11" fill="#0d1117" stroke="#3178c6" stroke-width="1.6"/>
+    <rect x="332" y="24" width="40" height="40" rx="11" fill="#3178c6" opacity=".14"/>
+    <text x="352" y="49.5" text-anchor="middle" class="chip" fill="#3178c6">TS</text>
+  </g>
+  <g class="float" style="animation-delay:-1.2s">
+    <rect x="392" y="50" width="40" height="40" rx="11" fill="#0d1117" stroke="#00add8" stroke-width="1.6"/>
+    <rect x="392" y="50" width="40" height="40" rx="11" fill="#00add8" opacity=".14"/>
+    <text x="412" y="75.5" text-anchor="middle" class="chip" fill="#00add8">Go</text>
+  </g>
+  <g class="float" style="animation-delay:-2.4s">
+    <rect x="336" y="88" width="40" height="40" rx="11" fill="#0d1117" stroke="#ffd43b" stroke-width="1.6"/>
+    <rect x="336" y="88" width="40" height="40" rx="11" fill="#ffd43b" opacity=".14"/>
+    <text x="356" y="113.5" text-anchor="middle" class="chip" fill="#ffd43b">Py</text>
+  </g>
+  <g class="float" style="animation-delay:-0.6s">
+    <rect x="394" y="114" width="40" height="40" rx="11" fill="#0d1117" stroke="#a371f7" stroke-width="1.6"/>
+    <rect x="394" y="114" width="40" height="40" rx="11" fill="#a371f7" opacity=".14"/>
+    <text x="414" y="139.5" text-anchor="middle" class="chip" fill="#a371f7">AI</text>
+  </g>
+  </g>
+  <rect x="0.5" y="0.5" width="459" height="179" rx="12" fill="none" stroke="#30363d"/>
+</svg>
