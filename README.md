@@ -1,6 +1,6 @@
 # Pavan Kishor M : ) 
 
-<table>
+
 <tr>
 <td>
     
@@ -9,18 +9,24 @@
 
 </td>
 </tr>
-</table>
 
+
+<!-- Profile views: live counter, starts from 11208 and goes up on every profile load. -->
 <table>
 <tr>
-<td>
-    
+<td valign="top">
+
 ## Socials
 
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kishorm3795@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://kishorm3795.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=simple-icons:linkedin&logoColor=white)](https://www.linkedin.com/in/pavankishormio/)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-11,208-blue?style=flat-square&logo=eye&logoColor=white)
+![Profile Views](https://hits.sh/github.com/kishorm3795.svg?style=flat-square&label=Profile%20Views&extraCount=11208&color=007ec6)
+
+</td>
+<td valign="top">
+
+<img src="coding-scene.svg" alt="A laptop typing code with floating tech chips" width="420">
 
 </td>
 </tr>
